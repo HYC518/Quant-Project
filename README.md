@@ -13,14 +13,13 @@ This repository collects my quantitative finance projects, including factor mode
 ## Project Files
 
 - [CAPM notebook](capm_project/notebooks/capm_analysis.ipynb)
-- [Processed dataset](capm_project/data/capm_data.csv)
-- [Rolling regression output](capm_project/outputs/roll_results.csv)
-- [Python requirements](capm_project/requirements.txt)
+  - [Processed dataset](capm_project/data/capm_data.csv)
+  - [Rolling regression output](capm_project/outputs/roll_results.csv)
+  - [Python requirements](capm_project/requirements.txt)
 - [GARCH notebook](Garch_project/notebooks/Garch_Model.ipynb)
-- [GARCH project README](Garch_project/README.md)
-- [GARCH requirements](Garch_project/requirements.txt)
+  - [GARCH project README](Garch_project/README.md)
+  - [GARCH requirements](Garch_project/requirements.txt)
 
 ## Notes
 
 - Each project keeps its own notebook, data, and outputs under its project folder.
-- The GARCH notebook exports figures and tables to `Garch_project/outputs/` when rerun.
