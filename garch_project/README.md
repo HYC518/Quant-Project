@@ -19,7 +19,7 @@ The main notebook is [notebooks/Garch_Model.ipynb](notebooks/Garch_Model.ipynb).
 ## Structure
 
 ```text
-Garch_project/
+garch_project/
 |-- data/
 |-- notebooks/
 |-- outputs/
@@ -50,5 +50,5 @@ When the notebook is rerun, it writes figures and tables to `outputs/`, includin
 
 ## Notes
 
-- The notebook assumes it is run from `Garch_project/notebooks/`, so exports are written to `../outputs/`.
+- The notebook assumes it is run from `garch_project/notebooks/`, so exports are written to `../outputs/`.
 - Recursive forecast outputs are saved per index to make later report writing easier.
